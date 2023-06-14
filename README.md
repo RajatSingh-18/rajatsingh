@@ -18,7 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
-
+<h3 align="left">Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatsinghcedcoss&show_icons=true&locale=en" alt="rajatsingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsinghcedcoss&" alt="rajatsingh" /></p>
