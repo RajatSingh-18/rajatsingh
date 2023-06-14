@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsinghcedcoss&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsingh" /> </p>
 
 
-- 👨‍💻 Full Stack Web Developer
-- 🎥 Curious to learn more about React  <!-- - 🌱 Currently learning Svelte. -->
+- 👨‍💻 Front-End  Developer
+- 🎥 Curious to learn more about React 
 - 📚 What do I believe? Jack of all, Master of some.
 
 
